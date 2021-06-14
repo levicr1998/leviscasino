@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" styleClass="BackgroundImage" stylesheets="@../styles/GameStyle.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.cri.levi.websocketcasinoclient.frontend.controllers.WithdrawController">
+   <children>
+      <Label layoutX="161.0" layoutY="186.0" prefHeight="24.0" prefWidth="65.0" text="Amount:" textFill="#ffcc00">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button layoutX="226.0" layoutY="275.0" mnemonicParsing="false" onAction="#btnWithdrawOnAction" prefHeight="49.0" prefWidth="168.0" styleClass="SignUpButton" text="Withdraw" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Button>
+      <TextField fx:id="tfAmount" layoutX="236.0" layoutY="186.0" prefHeight="24.0" prefWidth="176.0" />
+      <AnchorPane layoutX="185.0" layoutY="113.0" prefHeight="34.0" prefWidth="230.0" styleClass="wBackground">
+         <children>
+            <Label layoutX="20.0" layoutY="9.0" text="Balance:">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label fx:id="lBalance" layoutX="89.0" layoutY="9.0" text="0" />
+         </children></AnchorPane>
+      <ImageView fitHeight="49.0" fitWidth="210.0" layoutX="207.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/title_withdraw.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnHome" layoutX="14.0" layoutY="12.0" mnemonicParsing="false" onAction="#btnHomeOnAction" styleClass="SignUpButton">
+         <graphic>
+            <ImageView fitHeight="44.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/home_button_white.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>

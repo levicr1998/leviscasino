@@ -1,0 +1,33 @@
+
+.SquareColor {
+    -fx-background-color: green;
+    -fx-border-color: white;
+}
+
+.BackgroundImage{
+    -fx-background-image: url("../images/backgroundCasino.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
+
+.LoginButton{
+    -fx-background-color: green;
+    -fx-border-color: white;
+}
+
+.SignUpButton{
+    -fx-background-color:#ffcc00;
+}
+
+.wBackground{
+    -fx-background-color: white;
+    -fx-border-radius: 5px;
+}
+
+.gBackground{
+    -fx-background-color: #E5E7E9;
+}
+
+.yBackground{
+    -fx-background-color:#ffcc00;
+}

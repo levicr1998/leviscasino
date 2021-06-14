@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69e05ba7-875f-40c7-891c-b9bcd0824589" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leviscasinoapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasinoClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CasinoClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasinoClient/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/CasinoClient/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasinoClient/target/test-classes/META-INF/CasinoClient.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasinoShared/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/CasinoShared/target/classes/module-info.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Leviscasino$RouletteGameTest.ic" NAME="RouletteGameTest Coverage Results" MODIFIED="1561414552128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$GameTest.ic" NAME="GameTest Coverage Results" MODIFIED="1561408579719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_Leviscasino__1_.ic" NAME="All in Leviscasino (1) Coverage Results" MODIFIED="1561461105937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$org_cri_levi_websocketcasinoclient_in_CasinoClient.ic" NAME="org.cri.levi.websocketcasinoclient in CasinoClient Coverage Results" MODIFIED="1561469337388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.cri.levi.websocketcasinoclient.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_Leviscasino.ic" NAME="All in Leviscasino Coverage Results" MODIFIED="1561414590436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$org_cri_levi_websocketcasinoserver_database_bank_in_CasinoServer.ic" NAME="org.cri.levi.websocketcasinoserver.database.bank in CasinoServer Coverage Results" MODIFIED="1561300264815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.cri.levi.websocketcasinoserver.database.bank.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Leviscasino$PlayerTest_testConstructor1.ic" NAME="PlayerTest.testConstructor1 Coverage Results" MODIFIED="1561404308436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$Main.ic" NAME="Main Coverage Results" MODIFIED="1561279109802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.cri.levi.websocketcasinoclient.frontend.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Leviscasino$RouletteResultCheckerTest.ic" NAME="RouletteResultCheckerTest Coverage Results" MODIFIED="1561300644547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gameManager.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Leviscasino$PlayerTest.ic" NAME="PlayerTest Coverage Results" MODIFIED="1561407420168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_CasinoShared__1_.ic" NAME="All in CasinoShared (1) Coverage Results" MODIFIED="1561461152530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_CasinoServer.ic" NAME="All in CasinoServer Coverage Results" MODIFIED="1561468838626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_CasinoServer__1_.ic" NAME="All in CasinoServer (1) Coverage Results" MODIFIED="1561469001034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_CasinoClient.ic" NAME="All in CasinoClient Coverage Results" MODIFIED="1561469383313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Leviscasino$org_cri_levi_websocketcasinoserver_gameManager_in_CasinoServer.ic" NAME="org.cri.levi.websocketcasinoserver.gameManager in CasinoServer Coverage Results" MODIFIED="1561300508737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.cri.levi.websocketcasinoserver.gameManager.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Leviscasino$All_in_CasinoShared.ic" NAME="All in CasinoShared Coverage Results" MODIFIED="1561414807270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="292" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jersey</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/WithdrawController.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/GamesOverview.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteBoard.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteGame.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/tools/AlertHelper.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/WebsocketServer.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bankable.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gameManager/BetModel.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/BetModel.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/ResultRouletteGame.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/ResultRouletteGames.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/RouletteResultChecker.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/RouletteResultCheckerTest.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/gamemodels/GameOperationDeserializer.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/Player.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/gamemodels/ProfitModel.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/lobbymodels/CreateGameModel.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/lobbymodels/LobbyOperationDeserializer.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/lobbymodels/NewGameModel.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/lobbymodels/NumberGeneratorModel.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/RestServer.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/ConfigFileReader.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/BankRestEndpoint.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/LobbyWebsocketService.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/LoginRestEndpoint.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/LobbyController.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/websocket/LobbyEndpoint.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/RegisterController.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/CasinoWebsocketService.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/authenticator/Authenticator.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/playerfinder/Finder.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/Sql.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/Sqlable.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bank.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteBet.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/test/java/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/Game.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/BankTest.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/AuthenticatorTest.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/GameRoomTest.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/test/java/RouletteBetTest.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/test/java/RouletteBoardTest.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/test/java/RouletteGameTest.java" />
+        <option value="$PROJECT_DIR$/CasinoShared/src/test/java/GameTest.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameManager.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameRoom.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/GameManagerTest.java" />
+        <option value="$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/ResultRouletteGamesTest.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/test/java/GameOverViewTest.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/module-info.java" />
+        <option value="$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/GameController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1tArtO8rmKr1WXn6kdYo8luriig" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoclient" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="authenticator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocketcasinoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="gamemanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gameManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="bankmodels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="gamemodels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="lobbymodels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leviscasino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leviscasinoapp" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoShared" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570136952122" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42978004" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\levic\OneDrive\Documenten\GitHub\casino_app\leviscasinoapp\CasinoServer\src\main\resources" />
+      <recent name="C:\Users\levic\Desktop\casino app\CasinoClient\src\main\java" />
+      <recent name="C:\Users\levic\Desktop\casino app\CasinoClient\src\main\resources" />
+      <recent name="C:\Users\levic\Desktop\casino app\CasinoServer\src\main\java\websocketcasinoclient" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cri.levi.websocketcasinoserver" />
+      <recent name="org.cri.levi.websocketcasinoserver.data" />
+      <recent name="" />
+      <recent name="org.cri.levi.websocketcasinoclient.frontend.models" />
+      <recent name="org.cri.levi.websocketcasinoclient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\levic\OneDrive\Documenten\GitHub\casino_app\leviscasinoapp\CasinoClient\src\main\resources\images" />
+      <recent name="C:\Users\levic\OneDrive\Documenten\GitHub\casino_app\leviscasinoapp\CasinoClient\src\main\java\org\cri\levi\websocketcasinoclient\endpoint\rest" />
+      <recent name="C:\Users\levic\OneDrive\Documenten\GitHub\casino_app\leviscasinoapp\CasinoServer\src\main\java\org\cri\levi\websocketcasinoserver\database" />
+      <recent name="C:\Users\levic\Desktop\casino app\CasinoServer\src\main\java\org\cri\levi\websocketcasinoserver\models" />
+      <recent name="C:\Users\levic\Desktop\casino app\CasinoClient\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cri.levi.websocketcasinoclient.frontend.Main" />
+      <module name="CasinoClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cri.levi.websocketcasinoclient.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RestServer" />
+      <module name="CasinoServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cri.levi.websocketcasinoserver.WebsocketServer" />
+      <module name="CasinoServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cri.levi.websocketcasinoserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CasinoClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CasinoClient" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOverViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CasinoClient" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameOverViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WebsocketServer" />
+      <item itemvalue="Application.RestServer" />
+      <item itemvalue="JUnit.All in CasinoClient" />
+      <item itemvalue="JUnit.GameOverViewTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RestServer" />
+        <item itemvalue="Application.WebsocketServer" />
+        <item itemvalue="JUnit.GameOverViewTest" />
+        <item itemvalue="JUnit.All in CasinoClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e05ba7-875f-40c7-891c-b9bcd0824589" name="Default Changelist" comment="" />
+      <created>1558643086882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558643086882</updated>
+      <workItem from="1558643091944" duration="2182000" />
+      <workItem from="1558645303312" duration="775000" />
+      <workItem from="1558699224111" duration="6378000" />
+      <workItem from="1558946120489" duration="1707000" />
+      <workItem from="1558962995218" duration="292000" />
+      <workItem from="1559026116045" duration="28002000" />
+      <workItem from="1559120027838" duration="4683000" />
+      <workItem from="1559154974906" duration="3803000" />
+      <workItem from="1559208234031" duration="8153000" />
+      <workItem from="1559216872867" duration="8956000" />
+      <workItem from="1559237225258" duration="2621000" />
+      <workItem from="1559408221663" duration="1403000" />
+      <workItem from="1559499230822" duration="5199000" />
+      <workItem from="1559550931908" duration="376000" />
+      <workItem from="1559551561654" duration="521000" />
+      <workItem from="1559636018811" duration="200000" />
+      <workItem from="1559639532456" duration="6456000" />
+      <workItem from="1559646036506" duration="3031000" />
+      <workItem from="1559649610032" duration="174000" />
+      <workItem from="1559649828879" duration="888000" />
+      <workItem from="1559673560117" duration="803000" />
+      <workItem from="1559725669735" duration="8618000" />
+      <workItem from="1560098422501" duration="1826000" />
+      <workItem from="1560255351181" duration="1471000" />
+      <workItem from="1560429579068" duration="423000" />
+      <workItem from="1560430026285" duration="12302000" />
+      <workItem from="1560510037449" duration="352000" />
+      <workItem from="1560613259701" duration="1806000" />
+      <workItem from="1560760783516" duration="1353000" />
+      <workItem from="1560763922593" duration="7308000" />
+      <workItem from="1560867589644" duration="1978000" />
+      <workItem from="1560872340934" duration="535000" />
+      <workItem from="1560873652637" duration="31739000" />
+      <workItem from="1560956267856" duration="7861000" />
+      <workItem from="1560966807411" duration="11433000" />
+      <workItem from="1561010675430" duration="88814000" />
+      <workItem from="1561228443724" duration="1347000" />
+      <workItem from="1561232928655" duration="762000" />
+      <workItem from="1561276883631" duration="17223000" />
+      <workItem from="1561297228684" duration="12294000" />
+      <workItem from="1561360931865" duration="1588000" />
+      <workItem from="1561369590600" duration="392000" />
+      <workItem from="1561374448159" duration="687000" />
+      <workItem from="1561380865922" duration="28890000" />
+      <workItem from="1561458329162" duration="10187000" />
+      <workItem from="1561475835961" duration="698000" />
+      <workItem from="1561535836606" duration="2395000" />
+      <workItem from="1561721377160" duration="1609000" />
+      <workItem from="1567428738648" duration="281000" />
+      <workItem from="1568917882418" duration="191000" />
+      <workItem from="1569842771584" duration="662000" />
+      <workItem from="1570124941763" duration="228000" />
+      <workItem from="1570125840018" duration="295000" />
+      <workItem from="1570126740593" duration="341000" />
+      <workItem from="1570127606602" duration="1255000" />
+      <workItem from="1570175511936" duration="254000" />
+      <workItem from="1570378431018" duration="184000" />
+      <workItem from="1570446432665" duration="594000" />
+      <workItem from="1571411459220" duration="195000" />
+      <workItem from="1571561703988" duration="14000" />
+      <workItem from="1622222959274" duration="2163000" />
+      <workItem from="1622923982027" duration="1135000" />
+      <workItem from="1623093537987" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameManagerTest_testUpdatePlayerListRoom - 2019.06.25 at 15h 13m 31s.xml">
+      <configuration name="GameManagerTest.testUpdatePlayerListRoom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameManagerTest_testUpdatePlayerListRoom - 2019.06.25 at 15h 13m 47s.xml">
+      <configuration name="GameManagerTest.testUpdatePlayerListRoom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameManagerTest_testRemoveBets - 2019.06.25 at 15h 16m 26s.xml">
+      <configuration name="GameManagerTest.testRemoveBets" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameManagerTest - 2019.06.25 at 15h 19m 02s.xml">
+      <configuration name="GameManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CasinoServer - 2019.06.25 at 15h 21m 07s.xml">
+      <configuration name="All in CasinoServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ResultRouletteGamesTest - 2019.06.25 at 15h 22m 59s.xml">
+      <configuration name="ResultRouletteGamesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CasinoServer_(1) - 2019.06.25 at 15h 23m 42s.xml">
+      <configuration name="All in CasinoServer (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_cri_levi_websocketcasinoclient_in_CasinoClient - 2019.06.25 at 15h 29m 17s.xml">
+      <configuration name="org.cri.levi.websocketcasinoclient in CasinoClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CasinoClient - 2019.06.25 at 15h 30m 03s.xml">
+      <configuration name="All in CasinoClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameOverViewTest - 2019.06.25 at 15h 42m 41s.xml">
+      <configuration name="GameOverViewTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="346988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3001066" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40303358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.33901918" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5016077" side_tool="true" visible="true" weight="0.29690832" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Bean Validation" order="10" sideWeight="0.49839228" weight="0.29690832" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.33901918" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/LevisCasinoApp" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/RegisterController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bank.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/websocket/CasinoEndpoint.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/GameController.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/GameController.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameRoom.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/CasinoWebsocketService.java</url>
+          <line>159</line>
+          <properties class="org.cri.levi.websocketcasinoserver.endpoint.CasinoWebsocketService" method="sendProfit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/CasinoWebsocketService.java</url>
+          <line>175</line>
+          <properties class="org.cri.levi.websocketcasinoserver.endpoint.CasinoWebsocketService" method="findPlayerID">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/websocket/CasinoEndpoint.java</url>
+          <line>106</line>
+          <properties class="org.cri.levi.websocketcasinoclient.endpoint.websocket.CasinoEndpoint" method="send">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/RouletteResultChecker.java</url>
+          <line>13</line>
+          <properties class="org.cri.levi.websocketcasinoserver.gamemanager.RouletteResultChecker" method="checkOtherOption">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/RouletteResultChecker.java</url>
+          <line>95</line>
+          <properties class="org.cri.levi.websocketcasinoserver.gamemanager.RouletteResultChecker">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameManager.java</url>
+          <line>101</line>
+          <properties class="org.cri.levi.websocketcasinoserver.gamemanager.GameManager">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/Sql.java</url>
+          <line>34</line>
+          <properties class="org.cri.levi.websocketcasinoserver.database.Sql" method="executeQuery">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/authenticator/Authenticator.java</url>
+          <line>44</line>
+          <properties class="org.cri.levi.websocketcasinoserver.database.authenticator.Authenticator" method="login">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bank.java</url>
+          <line>61</line>
+          <properties class="org.cri.levi.websocketcasinoserver.database.bank.Bank" method="checkPlaceBetPossible">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/test/java/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/bankmodels/TransferModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bankable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="17" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/bank/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/test/java/RouletteBoardTest.java" />
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/test/java/GameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/tools/WindowOpener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/BetModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.2/junit-platform-commons-1.3.2-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.3.2/junit-jupiter-engine-5.3.2-sources.jar!/org/junit/jupiter/engine/execution/ExecutableInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/GameRoomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="44" column="58" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/RouletteResultCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-812">
+          <caret line="50" column="60" lean-forward="true" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/AuthenticatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/BankTest.java" />
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/ResultRouletteGamesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/test/java/RouletteGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/test/java/RouletteBetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/test/java/gameManager/GameManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="54" column="94" selection-start-line="54" selection-start-column="94" selection-end-line="54" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/test/java/GameOverViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/RouletteBet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/logic/GamesOverview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/GameRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/resources/views/Game.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/gamemodels/PlaceBetModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoShared/src/main/java/org/cri/levi/websocketcasinoshared/models/gamemodels/LeaveGameModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/LobbyWebsocketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/WebsocketLobbyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/WebsocketGameClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/rest/BankRestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/rest/QueryCommandExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/BankRestEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="156" column="22" selection-start-line="156" selection-start-column="22" selection-end-line="156" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/WebsocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/RestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/endpoint/LoginRestEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/authenticator/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/database/authenticator/Authenticatorable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/endpoint/rest/LoginRestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/ConfigFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoClient/src/main/java/org/cri/levi/websocketcasinoclient/frontend/controllers/WithdrawController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasinoServer/src/main/java/org/cri/levi/websocketcasinoserver/gamemanager/ResultRouletteGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casino app.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Leviscasino</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

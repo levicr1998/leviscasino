@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" styleClass="BackgroundImage" stylesheets="@../styles/GameStyle.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.cri.levi.websocketcasinoclient.frontend.controllers.HomeController">
+   <children>
+      <Button fx:id="btnCasinoLobby" layoutX="166.0" layoutY="111.0" mnemonicParsing="false" onAction="#btnCasinoLobbyOnAction" prefHeight="77.0" prefWidth="269.0" styleClass="SignUpButton" text="Casino" textFill="WHITE">
+         <font>
+            <Font name="Calibri Bold" size="30.0" />
+         </font></Button>
+      <Button fx:id="btnWithdraw" layoutX="166.0" layoutY="200.0" mnemonicParsing="false" onAction="#btnWithdrawOnAction" prefHeight="77.0" prefWidth="269.0" styleClass="SignUpButton" text="Withdraw" textFill="WHITE">  <font>
+      <Font name="Calibri Bold" size="30.0" />
+      </font> </Button>
+      <Button fx:id="btnDeposit" layoutX="166.0" layoutY="287.0" mnemonicParsing="false" onAction="#btnDepositOnAction" prefHeight="77.0" prefWidth="269.0" styleClass="SignUpButton" text="Deposit" textFill="WHITE">
+         <font>
+            <Font name="Calibri Bold" size="30.0" />
+         </font></Button>
+      <ImageView fitHeight="89.0" fitWidth="320.0" layoutX="140.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/title_login.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnLogin" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#btnLoginOnAction" prefHeight="25.0" prefWidth="31.0" styleClass="SignUpButton">
+         <graphic>
+            <ImageView fitHeight="27.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/logout.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label fx:id="tfUsername" layoutX="482.0" layoutY="16.0" text="Username" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="tfBalance" layoutX="482.0" layoutY="41.0" text="Balance" textFill="WHITE" />
+   </children>
+</AnchorPane>
